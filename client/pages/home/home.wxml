@@ -1,0 +1,11 @@
+<!--client/pages/home/home.wxml-->
+<image class='poster'></image>
+<view class='title'></view>
+<view class='recommend-wrapper'>
+  <image class='profile'></image>
+  <view class='friend'>小郭向你推荐了一部电影</view>
+</view>
+<view class='btn-wrapper'>
+  <view class='movie-list-btn'></view>
+  <view class='user-btn'></view>
+</view>
