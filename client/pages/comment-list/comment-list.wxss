@@ -1,0 +1,4 @@
+/* client/pages/comment-list/comment-list.wxss */
+.user-wrapper{
+  display: flex;
+}

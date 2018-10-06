@@ -1,4 +1,4 @@
-// pages/addCgi/addCgi.js
+// client/pages/comment-list/comment-list.js
 Page({
 
   /**

@@ -1,4 +1,4 @@
-// pages/index/index.js
+// client/pages/user/user.js
 Page({
 
   /**

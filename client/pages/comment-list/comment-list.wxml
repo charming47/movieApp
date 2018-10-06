@@ -1,0 +1,6 @@
+<!--client/pages/comment-list/comment-list.wxml-->
+<view class='user-wrapper'>
+  <image class='user-profile' src='/images/timg.jpg'></image>
+  <view class='user-name'>同名氏</view>
+</view>
+<view class='comment'>太好看了哈哈哈哈</view>

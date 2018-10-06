@@ -1,0 +1,30 @@
+/* client/pages/user/user.wxss */
+.collection{
+  color:orange;
+  font-size: 30rpx;
+  display: flex;
+  justify-content: center;
+  margin-top: 50rpx;
+  margin-bottom: 50rpx;
+}
+
+.movie-wrapper{
+  display: flex;
+  border: solid;
+  border-width: 2rpx;
+  border-color: gainsboro;
+  background-color: white;
+  height: 380rpx;
+  margin: 0 40rpx 10rpx 40rpx;
+}
+
+.poster{
+  display: flex;
+  height: 380rpx;
+  width: 260rpx;
+}
+
+.movie-title{
+  display: flex;
+  padding: 20rpx 0 20rpx 20rpx;
+}

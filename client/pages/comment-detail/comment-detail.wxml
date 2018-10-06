@@ -1,0 +1,21 @@
+<!--client/pages/comment-detail/comment-detail.wxml-->
+<image class='poster' src='/images/p1461851991.jpg'></image>
+<view class='movie-title'>机器人总动员：无限战争</view>
+<view class='user-info'>
+  <image class='user-profile' src='/images/timg.jpg'></image>
+  <view class='user-name'>同名氏的影评</view>
+</view>
+<view class='comment'>
+  <image class='comment-icon' src='/images/quote.png'></image>
+  <view class='comment-content'>太好看了哈哈</view>
+</view>
+<view class='btn-wrapper'>
+  <view class='comment-list-btn'>
+    <image class='comment-list-btn-icon' src='/images/favorite.png'></image>
+    <view class='comment-list-btn-text'>收藏影评</view>
+  </view>
+  <view class='comment-edit-btn'>
+    <image class='comment-edit-btn-icon' src='/images/write.png'></image>
+    <view class='comment-edit-btn-text'>写影评</view>
+  </view>
+</view>

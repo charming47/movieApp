@@ -1,11 +1,19 @@
 <!--client/pages/home/home.wxml-->
-<image class='poster'></image>
-<view class='title'></view>
+<view class='imagesize'>
+  <image class='poster' src='/images/p1461851991.jpg'></image>
+</view>
+<view class='title'>机器人总动员：无限战争</view>
 <view class='recommend-wrapper'>
-  <image class='profile'></image>
-  <view class='friend'>小郭向你推荐了一部电影</view>
+  <image class='profile' src='/images/timg.jpg'></image>
+  <view class='friend-recommend'>小郭向你推荐了一部电影</view>
 </view>
 <view class='btn-wrapper'>
-  <view class='movie-list-btn'></view>
-  <view class='user-btn'></view>
+  <view class='movie-list-btn'>
+    <image class='movie-list-btn-icon' src='/images/hot.png'></image>
+    <view class='movie-list-btn-text'>热门</view>
+  </view>
+  <view class='user-btn'>
+    <image class='user-btn-icon' src='/images/user.png'></image>
+    <view class='user-btn-text'>我的</view>
+  </view>
 </view>

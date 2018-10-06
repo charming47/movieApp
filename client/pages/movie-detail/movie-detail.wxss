@@ -1,0 +1,4 @@
+/* client/pages/movie-detail/movie-detal.wxss */
+.btn-wrapper{
+  display: flex;
+}

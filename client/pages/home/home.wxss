@@ -1,1 +1,75 @@
 /* client/pages/home/home.wxss */
+.imagesize{
+  margin-top: 20rpx;
+  display: flex;
+  justify-content: center;
+}
+
+.imagesize image{
+  height: 760rpx;
+  width: 540rpx;
+}
+
+.title{
+  margin-top: 35rpx;
+  margin-bottom: 15rpx;
+  text-align: center;
+  font-size: 45rpx;
+  line-height: 63rpx;
+}
+
+.recommend-wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.profile{
+  border-radius: 50%;
+  width: 100rpx;
+  height: 100rpx;
+}
+
+.friend-recommend{
+  font-size: 30rpx;
+  padding-top: 25rpx;
+  padding-left: 20rpx;
+}
+
+.btn-wrapper{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  bottom: 0;
+  position: fixed;
+  padding-top: 30rpx;
+  padding-bottom: 30rpx;
+  background-color: white;
+}
+
+.movie-list-btn{
+  display: flex;
+}
+
+.user-btn{
+  display: flex;  
+}
+
+.movie-list-btn-icon{
+  width: 50rpx;
+  height: 50rpx;
+}
+
+.movie-list-btn-text{
+  padding-left: 20rpx;
+  font-size: 30rpx;
+}
+
+.user-btn-icon{
+  width: 50rpx;
+  height: 50rpx;  
+}
+
+.user-btn-text{
+  padding-left: 20rpx;
+  font-size: 30rpx;
+}

@@ -1,0 +1,8 @@
+<!--client/pages/movie-list/movie-list.wxml-->
+<view class='movie-wrapper'>
+  <image class='poster' src='/images/p1461851991.jpg'></image>
+  <view class='movie-info'>
+    <view class='movie-title'>机器人总动员：无限战争</view>
+    <view class='movie-type'>类型：科幻</view>
+  </view>
+</view>

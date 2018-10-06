@@ -8,5 +8,68 @@
 	},
 	"appid": "wx8a216761d159f2d4",
 	"projectname": "%E7%9C%8B%E7%9C%8B%E4%BE%83%E4%BE%83%E7%94%B5%E5%BD%B1",
-	"condition": {}
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 4,
+			"list": [
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/user/user",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "热门电影",
+					"pathName": "pages/movie-list/movie-list",
+					"query": ""
+				},
+				{
+					"id": 2,
+					"name": "电影详情",
+					"pathName": "pages/movie-detail/movie-detail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "影评列表",
+					"pathName": "pages/comment-list/comment-list",
+					"query": ""
+				},
+				{
+					"id": 4,
+					"name": "影评预览",
+					"pathName": "pages/comment-preview/comment-preview",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "编辑影评",
+					"pathName": "pages/comment-edit/comment-edit",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "影评详情",
+					"pathName": "pages/comment-detail/comment-detail",
+					"query": ""
+				}
+			]
+		}
+	}
 }

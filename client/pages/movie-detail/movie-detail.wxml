@@ -1,0 +1,14 @@
+<!--client/pages/movie-detail/movie-detal.wxml-->
+<image class='poster' src='/images/p1461851991.jpg'></image>
+<view class='movie-title'>机器人总动员：无限战争</view>
+<view class='movie-description'>瓦利和伊娃的爱情故事</view>
+<view class='btn-wrapper'>
+  <view class='comment-list-btn'>
+    <image class='comment-list-btn-icon' src='/images/eye.png'></image>
+    <view class='comment-list-btn-text'>查看影评</view>
+  </view>
+  <view class='comment-edit-btn'>
+    <image class='comment-edit-btn-icon' src='/images/add.png'></image>
+    <view class='comment-edit-btn-text'>添加影评</view>
+  </view>
+</view>

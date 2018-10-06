@@ -1,0 +1,9 @@
+<!--client/pages/comment-edit/comment-edit.wxml-->
+<image class='poster' src='/images/p1461851991.jpg'></image>
+<view class='movie-title'>机器人总动员：无限战争</view>
+<textarea class='comment-add' placeholder-class='comment-placeholder' placeholder='请填写你的评价' auto-focus maxlength='255'></textarea>
+<view class='voice-record'>
+  <image class='voice-record-icon' src='/images/record.png'></image>
+  <view class='voice-record-icon-text'>录音</view>
+</view>
+<button></button>

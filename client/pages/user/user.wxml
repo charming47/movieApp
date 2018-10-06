@@ -1,0 +1,13 @@
+<!--client/pages/user/user.wxml-->
+<view class='collection'>收藏的影评 v</view>
+<view class='movie-wrapper'>
+  <image class='poster' src='/images/p1461851991.jpg'></image>
+  <view class='context-wrapper'>
+    <view class='movie-title'>机器人总动员：无限战争</view>
+    <view class='comment'></view>
+    <view class='user-wrapper'>
+      <image class='profile'></image>
+      <view class='user-name'></view>
+    </view>
+  </view>
+</view>

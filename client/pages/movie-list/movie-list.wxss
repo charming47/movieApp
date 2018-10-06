@@ -1,0 +1,4 @@
+/* client/pages/movie-list/movie-list.wxss */
+.movie-wrapper{
+  display: flex;
+}
