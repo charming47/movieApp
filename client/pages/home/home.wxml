@@ -2,7 +2,7 @@
 <view class='imagesize'>
   <image class='poster' src='/images/p1461851991.jpg'></image>
 </view>
-<view class='title'>机器人总动员：无限战争</view>
+<view class='title'>机器人总动员</view>
 <view class='recommend-wrapper'>
   <image class='profile' src='/images/timg.jpg'></image>
   <view class='friend-recommend'>小郭向你推荐了一部电影</view>
